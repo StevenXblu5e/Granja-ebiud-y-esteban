@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Huevo
+  - Nido
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: suelo
+    uniqueID: 1901783093
+    locked: 0
+  - name: colina
+    uniqueID: 2240545101
+    locked: 0
+  - name: Player
+    uniqueID: 877183799
+    locked: 0
+  - name: Gallina
+    uniqueID: 78983673
+    locked: 0
+  - name: Vaca
+    uniqueID: 1962839949
+    locked: 0
+  - name: Nido
+    uniqueID: 110095005
+    locked: 0
+  m_RenderingLayers:
+  - Default
