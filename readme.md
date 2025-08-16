@@ -1,12 +1,12 @@
 # PrÃ¡ctica de Motores de Videojuegos I - UCIC ðŸŽ®
 
 ## ðŸ§‘ Nombre del alumno/a:
-**Nombre(s):** [EstebanEbiud]  
-**Iniciales:** [EE]
+**Nombre(s):** [Jazmin]  
+**Iniciales:** [JAT]
 
 ## ðŸ—‚ï¸ PrÃ¡ctica #
 **TÃ­tulo de la prÃ¡ctica:** [Ej. Movimiento del personaje]  
-**Fecha de entrega:** [15/08/2025]
+**Fecha de entrega:** [24/06/2025]
 
 ## ðŸ§  DescripciÃ³n
 [Explica brevemente en quÃ© consiste la prÃ¡ctica, quÃ© hiciste y quÃ© aprendiste. Ejemplo: En esta prÃ¡ctica implementÃ© el movimiento de un personaje 2D usando Rigidbody2D y controles de teclado en Unity.]
@@ -17,7 +17,7 @@
 Ejemplo:
 - Unity versiÃ³n: 2022.3.x LTS
 - Plataforma: PC
-- Controles: Teclas de flecha para moverse
+- Controles: Teclas de flecha para moverse, espacio para saltar
 
 ## ðŸ“ Estructura del proyecto
 [Opcional: describe o muestra la estructura bÃ¡sica del proyecto, carpetas principales o assets relevantes.]
