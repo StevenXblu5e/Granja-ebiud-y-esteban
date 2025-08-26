@@ -1,8 +1,8 @@
 # PrÃ¡ctica de Motores de Videojuegos I - UCIC ðŸŽ®
 
 ## ðŸ§‘ Nombre del alumno/a:
-**Nombre(s):** [Jazmin]  
-**Iniciales:** [JAT]
+**Nombre(s):** [Esteban ebiud]  
+**Iniciales:** [EATEBIUD]
 
 ## ðŸ—‚ï¸ PrÃ¡ctica #
 **TÃ­tulo de la prÃ¡ctica:** [Ej. Movimiento del personaje]  
